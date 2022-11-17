@@ -15,9 +15,6 @@
   <p align="center">
     A waste image classifier that helps people sort their trash into the correct bins.
     <br />
-    <a href="https://github.com/karanvirheer/Recyclops"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://recyclops-machacks2021.herokuapp.com/">View Demo</a>
     ·
   </p>
