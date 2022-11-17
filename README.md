@@ -31,15 +31,13 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
-### Built With
+### Built With / Technologies Used
 
 * Javascript
 * Node.js
 * React
+* Python
 * HTML
 * CSS
 
