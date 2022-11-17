@@ -1,7 +1,3 @@
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/karanvirheer/Recyclops)
-![GitHub language count](https://img.shields.io/github/languages/count/karanvirheer/Recyclops)
-![GitHub User's stars](https://img.shields.io/github/stars/karanvirheer/Recyclops)
-
 
 <!-- PROJECT LOGO -->
 <br />
