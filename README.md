@@ -10,13 +10,12 @@
     <img src="images/Recyclops.png" alt="Logo" width="350" height="200">
   </a>
 
-  <h3 align="center">RECYCLOPS</h3>
+  <h3 align="center">RECYCLE TIME</h3>
 
   <p align="center">
     A waste image classifier that helps people sort their trash into the correct bins.
     <br />
     <a href="https://recyclops-machacks2021.herokuapp.com/">View Demo</a>
-    ·
   </p>
 </p>
 
