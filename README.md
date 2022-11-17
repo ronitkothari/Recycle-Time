@@ -11,7 +11,7 @@
   <p align="center">
     A waste image classifier that helps people sort their trash into the correct bins.
     <br />
-    <a href="https://recyclops-machacks2021.herokuapp.com/">View Demo</a>
+   
   </p>
 </p>
 
