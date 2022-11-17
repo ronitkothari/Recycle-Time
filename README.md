@@ -20,9 +20,6 @@
     <br />
     <a href="https://recyclops-machacks2021.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/karanvirheer/Recyclops/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/karanvirheer/Recyclops/issues">Request Feature</a>
   </p>
 </p>
 
