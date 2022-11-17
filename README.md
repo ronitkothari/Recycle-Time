@@ -90,22 +90,3 @@ npm install
 ## Usage
 
 We propose a feasible solution of developing a smartphone application that allows users to take a picture of the trash that they are unsure of how or where to dispose of and instantly direct them to the correct method of disposal. This app would operates similar to Google Lens where users can just point their camera at an article of trash, and it would tell them which trash bin to throw it in and even give them tips for separating and cleaning it before throwing it out. This feature is powered by an integrated integrated model that is trained to classify varying trash articles, provide information on how it should be disposed of, and what precautions should be taken.
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-* Karanvir Heer - [@Karanvir_H](https://twitter.com/Karanvir_H)
-* Saruggan Thiruchelvan - [@tsaruggan](https://github.com/tsaruggan)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Teachable Machine](https://teachablemachine.withgoogle.com/)
-* [TACO](https://github.com/pedropro/TACO)
